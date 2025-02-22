@@ -4,12 +4,9 @@
 
 <p align="center">Atualmente sou estudante de Sistemas da informação na Faculdade Uninassau de Recife. Me interesso em back-end, focado em Java. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Gosto muito de estudar essa área de computação!
 
-![Image](https://github.com/user-attachments/assets/8626ed9d-a17c-4d05-be90-938d8e85dd73)
-
-  
 #
 
-<img align="right" alt="" height="190px" src="C:/Users/João Victor/Downloads/165ea1fd36de790d7fd64b5a1fd8e5bb.gif">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/8626ed9d-a17c-4d05-be90-938d8e85dd73">
 
 <h3 align="left">Connect with me!</h3>
 
