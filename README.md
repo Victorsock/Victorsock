@@ -42,10 +42,10 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Victorsock&show_icons=true&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api?username=Victorsock&show_icons=true&theme=transparent">
 
   <a href="https://github.com/Victorsock/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorsock&layout=compact&theme=algolia">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorsock&layout=compact&theme=transparent">
   </a>
 
 
