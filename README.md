@@ -21,13 +21,13 @@
   <h3 align="left">Studying at this moment ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"  />
   <img width="8" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="25" alt="Azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="32" alt="Azure logo" />
   <img width="8" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="25" alt="SQL Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="32" alt="SQL Logo" />
   <img width="8" />
                   
   
@@ -35,7 +35,6 @@
   
   #
   
-
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
