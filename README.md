@@ -1,4 +1,8 @@
-### Olá! Eu sou o João Victor Cavalcanti 🖐️
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0077b6&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG">
+  </a>
+</div>
 
 #
 
@@ -10,9 +14,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/real.jao_18/)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:joao12spt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://linkedin.com/in/joão-victor-462ba9232)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0077b6&color:FFF)](https://www.instagram.com/real.jao_18/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0077b6&color:FFF)](mailto:joao12spt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077b6&color:FFF)](https://linkedin.com/in/joão-victor-462ba9232)
 
 
 
@@ -38,10 +42,10 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Victorsock&show_icons=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=Victorsock&show_icons=true&theme=algolia">
 
   <a href="https://github.com/Victorsock/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorsock&layout=compact&theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorsock&layout=compact&theme=algolia">
   </a>
 
 
