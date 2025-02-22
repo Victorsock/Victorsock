@@ -38,7 +38,7 @@
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=Victorsock&show_icons=true&theme=midnight-purple">
 
   <a href="https://github.com/Victorsock/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorsock&layout=compact&theme=midnight-purple">
