@@ -6,7 +6,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/8626ed9d-a17c-4d05-be90-938d8e85dd73">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/ef358b5a-b06f-49f0-8e0d-f429b4c5bfdf">
 
 <h3 align="left">Connect with me!</h3>
 
