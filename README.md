@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Atualmente sou estudante de Sistemas da informação na Faculdade Uninassau de Recife. Me interesso em back-end, focado em Java. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Gosto muito de estudar essa área de computação!
+<p align="center">Atualmente sou estudante de Sistemas da informação na Faculdade Uninassau de Recife. Me interesso em back-end, focado em Python. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Gosto muito de estudar essa área de computação!
 
 #
 
