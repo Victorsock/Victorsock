@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Atualmente sou estudante de Sistemas da informação na Faculdade Uninassau de Recife. Me interesso em back-end, focado em Cybersecurity. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Gosto muito de estudar essa área de computação!
+<p align="center">Atualmente sou estudante de Sistemas de Informação na Faculdade Uninassau, em Recife. Tenho grande interesse por Python, Kali Linux e pela área de cibersegurança, com o objetivo de me tornar um hacker ético. Estou sempre buscando me atualizar e encarar novos desafios no mundo da tecnologia, porque realmente gosto de estudar e aprender cada vez mais sobre computação e segurança digital.
 
 #
 
@@ -25,15 +25,8 @@
   <h3 align="left">Studying at this moment ~</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"  />
-  <img width="8" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="32" alt="Azure logo" />
-  <img width="8" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="32" alt="SQL Logo" />
-  <img width="8" />
-                  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" alt="linux logo" />
   
   </div>
   
