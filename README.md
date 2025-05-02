@@ -16,19 +16,22 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0077b6&color:FFF)](https://www.instagram.com/real.jao_18/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0077b6&color:FFF)](mailto:joao12spt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077b6&color:FFF)](https://linkedin.com/in/joão-victor-462ba9232)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color:FFF)](https://linkedin.com/in/joão-victor-462ba9232)
 
 
 
 
 
-  <h3 align="left">Studying at this moment ~</h3>
+  <h3 align="left">Studying at this moment </h3>
 
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" alt="linux logo" />
-  
-  </div>
+
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=0077b6&height=60)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=0077b6&height=)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=0077b6&height=60)
+![Kali](https://img.shields.io/badge/-Kali%20Linux-000?style=for-the-badge&logo=kalilinux&logoColor=0077b6&height=60)
+
+
+
   
   #
   
@@ -37,10 +40,9 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Victorsock&show_icons=true&theme=transparent">
 
-  <a href="https://github.com/Victorsock/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorsock&layout=compact&theme=transparent">
-  </a>
-
+<a href="https://github.com/Victorsock/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorsock&layout=compact&theme=transparent&langs_count=5">
+</a>
 
 </div>
 
