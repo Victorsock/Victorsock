@@ -28,7 +28,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=0077b6&height=60)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=0077b6&height=)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=0077b6&height=60)
-![Kali](https://img.shields.io/badge/-Kali%20Linux-000?style=for-the-badge&logo=kalilinux&logoColor=0077b6&height=60)
+
 
 
 
