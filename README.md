@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Atualmente sou estudante de Sistemas de Informação na Faculdade Uninassau, em Recife. Tenho grande interesse por Python, Kali Linux e pela área de cibersegurança, com o objetivo de me tornar um hacker ético. Estou sempre buscando me atualizar e encarar novos desafios no mundo da tecnologia, porque realmente gosto de estudar e aprender cada vez mais sobre computação e segurança digital.
+<p align="center">Atualmente sou estudante de Sistemas de Informação na Faculdade Uninassau, em Recife. Tenho grande interesse por Python e pela área de cibersegurança, com o objetivo de me tornar um hacker ético. Estou sempre buscando me atualizar e encarar novos desafios no mundo da tecnologia, porque realmente gosto de estudar e aprender cada vez mais sobre computação e segurança digital.
 
 #
 
