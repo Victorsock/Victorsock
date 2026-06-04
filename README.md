@@ -5,7 +5,7 @@
 **`Full Stack Developer in Training 🚀`** 
 
 ---
-<img align="right" height="250px"
+<img align="right" height="320px"
 src="https://github.com/Victorsock/Victorsock/blob/main/ChatGPT%20Image%204%20de%20jun.%20de%202026,%2014_15_30.png?raw=true">
 
 
