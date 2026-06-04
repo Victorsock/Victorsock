@@ -134,8 +134,30 @@ Along this journey, I aim to:
 
 ---
 
-<div align="center">
 
-### 🛹 Always Learning • Always Building
+### 🛹 Skate & Lifestyle
 
-</div>
+I like skateboarding to step away from the screen and breathe a little.  
+It’s where I disconnect from programming and just get into the flow.
+
+- Learning tricks step by step  
+- Focused on street skating  
+- Always improving balance and control  
+
+</p>
+
+---
+
+###  Always Learning • Always Building
+
+<p align="center">
+
+<img height="180px"
+src="https://github.com/Victorsock/Victorsock/blob/main/aesthetic-skater.gif?raw=true">
+
+<img height="180px"
+src="COLOCA_O_SEGUNDO_GIF_AQUI?raw=true">
+
+</p>
+
+---
