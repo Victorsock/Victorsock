@@ -21,16 +21,16 @@ I also have an interest in Linux, networking and cybersecurity fundamentals.
 ### 📶 Connect with Me!!
 
 <p align="left">
-  <a href="https://www.instagram.com/real.jao_22/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="50px" />
+  <a href="https://www.instagram.com/real.jao_22/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="42px" />
   </a>
 
+  <a href="https://linkedin.com/in/joão-victor-462ba9232">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42px" />
+  </a>
+  
   <a href="mailto:joao12spt@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="50px" />
-  </a>
-
-  <a href="https://linkedin.com/in/joão-victor-462ba9232" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="50px" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="42px" />
   </a>
 </p>
 
@@ -41,11 +41,11 @@ I also have an interest in Linux, networking and cybersecurity fundamentals.
 ### 🎨 Frontend
 
 <p>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
 
 ---
@@ -53,8 +53,8 @@ I also have an interest in Linux, networking and cybersecurity fundamentals.
 ### ⚙️ Backend
 
 <p>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ I also have an interest in Linux, networking and cybersecurity fundamentals.
 ### 🗄️ Database
 
 <p>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
 ---
@@ -70,9 +70,9 @@ I also have an interest in Linux, networking and cybersecurity fundamentals.
 ### 🛠️ Tools
 
 <p>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="50px" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="42px" />
+  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
 ---
