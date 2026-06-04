@@ -1,15 +1,12 @@
 <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0077b6&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG"> </a> </div> 
-<div align="center">
 
-💙 João Victor Cavalcanti
+👨‍💻 João Victor Cavalcanti
 
 **`Full Stack Developer in Training 🚀`** 
 
-</div>
-
 ---
 
-## 👨‍💻 About Me
+### ❓ About Me
 
 Hello! My name is João Victor and I am currently studying Information Systems.
 
@@ -21,27 +18,27 @@ I also have an interest in Linux, networking and cybersecurity fundamentals.
 
 ---
 
-## 📶 Connect With Me
+### 📶 Connect with Me!!
 
 <p align="left">
+  <a href="https://www.instagram.com/real.jao_22/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="50px" />
+  </a>
 
-<a href="https://www.instagram.com/real.jao_22/">
-<img src="https://img.shields.io/badge/Instagram-0077B6?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+  <a href="mailto:joao12spt@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="50px" />
+  </a>
 
-<a href="mailto:joao12spt@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0077B6?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/joão-victor-462ba9232">
-<img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+  <a href="https://linkedin.com/in/joão-victor-462ba9232" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="50px" />
+  </a>
 </p>
 
 ---
 
-## 📚 Studying at the Moment
+### 📚 Studying at the Moment
+
+### 🎨 Frontend
 
 <p>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -49,68 +46,60 @@ I also have an interest in Linux, networking and cybersecurity fundamentals.
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</p>
+
+---
+
+### ⚙️ Backend
+
+<p>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </p>
 
 ---
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
-## 🛠️ Tools
+---
+
+### 🛠️ Tools
 
 <p>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="50px" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
-# 🚀 Featured Project
+---
 
-## 🎬 IMDb Movie Analysis
+### 🎯 Career Goals
 
-Data analysis project built with JavaScript using a Kaggle IMDb dataset.
+My goal is to become a highly skilled Full Stack Developer, capable of designing, developing and deploying complete web applications.
 
-### Features
+Along this journey, I aim to:
 
-✅ Top Rated Movies Ranking
+💻 Master Java and Spring Boot for backend development
 
-✅ Movies by Decade Analysis
+⚛️ Build modern interfaces with React and JavaScript
 
-✅ Popularity Ranking
+🗄️ Work confidently with databases and APIs
 
-✅ Interactive Modals
+🔐 Develop strong foundations in Information Security
 
-✅ Chart.js Data Visualization
+🐧 Deepen my Linux and Networking knowledge
 
-### Links
+📂 Build a portfolio with real-world projects
 
-🌍 Live Demo
-
-https://victorsock.github.io/imdb-movie-analysis/
-
-📂 Repository
-
-https://github.com/Victorsock/imdb-movie-analysis
+📚 Never stop learning new technologies and best practices
 
 ---
 
-# 🎯 Goals for 2026
-
-- Learn Java and Spring Boot
-- Build Full Stack applications
-- Improve React skills
-- Master Git and GitHub workflow
-- Complete internship program
-- Expand portfolio with real projects
-
----
-
-# 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
 
@@ -122,20 +111,28 @@ https://github.com/Victorsock/imdb-movie-analysis
 
 ---
 
-# 💡 Currently Working On
+### 💡 Currently Working On
 
-🎓 Information Systems Degree
+🎓 Information Systems Degree at UNINASSAU
 
-💻 Full Stack Development
+🚀 Full Stack Development Program at Treina Recife
 
-🎬 IMDb Movie Analysis
+☕ Backend Development with Java & Spring Boot
 
-📚 Java + Spring Boot Learning Journey
+⚛️ Frontend Development with React, JavaScript, HTML & CSS
+
+🗄️ Database Development with MySQL
+
+🔧 Git, GitHub and Agile Methodologies (Scrum & Kanban)
+
+📂 Building Real-World Projects for My Portfolio
+
+🔐 Expanding Knowledge in Linux, Networking and Information Security
 
 ---
 
 <div align="center">
 
-## 💙 Always Learning • Always Building
+### 🛹 Always Learning • Always Building
 
 </div>
