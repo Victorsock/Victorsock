@@ -135,7 +135,7 @@ Along this journey, I aim to:
 
 ---
 
-### 🛹 Skate & Lifestyle
+### 🤘 Skate & Lifestyle
 
 I like skateboarding to step away from the screen and breathe a little.  
 It’s where I disconnect from programming and just get into the flow.
@@ -148,11 +148,16 @@ It’s where I disconnect from programming and just get into the flow.
 
 ---
 
-###  Always Learning • Always Building
+
+<div align="center">
+
+### 🛹 Always Learning • Always Building
+
+</div>
 
 <p align="center">
   <img src="https://github.com/Victorsock/Victorsock/blob/main/aesthetic-skater1.gif?raw=true" height="200" />
-  <img src="https://github.com/Victorsock/Victorsock/blob/main/aesthetic-skater1.gif?raw=true" height="200" />
+  <img src="https://github.com/Victorsock/Victorsock/blob/main/aesthetic-skater2.gif?raw=true" height="200" />
 </p>
 
 
