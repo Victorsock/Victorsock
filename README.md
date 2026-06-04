@@ -132,8 +132,8 @@ Along this journey, I aim to:
 
 🔐 Expanding Knowledge in Linux, Networking and Information Security
 
----
 
+---
 
 ### 🛹 Skate & Lifestyle
 
@@ -151,13 +151,11 @@ It’s where I disconnect from programming and just get into the flow.
 ###  Always Learning • Always Building
 
 <p align="center">
-
-<img height="180px"
-src="https://github.com/Victorsock/Victorsock/blob/main/aesthetic-skater.gif?raw=true">
-
-<img height="180px"
-src="COLOCA_O_SEGUNDO_GIF_AQUI?raw=true">
-
+  <img src="https://github.com/Victorsock/Victorsock/blob/main/aesthetic-skater1.gif?raw=true" height="200" />
+  <img src="https://github.com/Victorsock/Victorsock/blob/main/aesthetic-skater1.gif?raw=true" height="200" />
 </p>
 
----
+
+
+
+
