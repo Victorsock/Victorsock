@@ -3,11 +3,7 @@
 
 💙 João Victor Cavalcanti
 
-**`Desenvolvedor FullStack in Training 🚀`** 
-
-📍 Recife, Brazil
-
-🎓 Information Systems Student - UNINASSAU
+**`Full Stack Developer in Training 🚀`** 
 
 </div>
 
