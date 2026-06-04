@@ -21,7 +21,7 @@ I also have an interest in Linux, networking and cybersecurity fundamentals.
 
 ---
 
-## Connect With Me
+## 📶 Connect With Me
 
 <p align="left">
 
