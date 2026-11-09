@@ -44,10 +44,6 @@ I also have an interest in Linux, networking and cybersecurity fundamentals.
 ### 🎨 Frontend
 
 <p>
-  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
 
@@ -87,8 +83,6 @@ My goal is to become a highly skilled Full Stack Developer, capable of designing
 Along this journey, I aim to:
 
 💻 Master Java and Spring Boot for backend development
-
-⚛️ Build modern interfaces with React and JavaScript
 
 🗄️ Work confidently with databases and APIs
 
